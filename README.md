@@ -6,7 +6,7 @@
 🔍 Strategic-minded cybersecurity professional with expertise in penetration testing, incident response, and secure application development. ⚡ Passionate about threat detection, access management, and safeguarding digital assets. 📖 Constantly learning, adapting, and building innovative solutions to strengthen security landscapes.
 
 📜 Certifications
-✅ CompTIA Security+ ✅ Google Cybersecurity Certification ✅ Web Development Certification
+ CompTIA Security+ | Google Cybersecurity Certification | Web Development Certification
 
 🛠️ Tech Toolbox
 🔹 Languages: Python 🐍 | Java ☕ | JavaScript 🚀 | SQL 🛢️ 🔹 Cybersecurity Arsenal: Kali Linux 🏴 | Wireshark 🔬 | OSINT 🧐 | SIEM Tools 🔍 🔹 Web Security: OWASP Top 10 🛡️ | Secure API Development 🔐 | Threat Modeling ⚠️ | Firewall Configuration 🔥 🔹 Systems & Access Management: Active Directory 🔑 | User Creation & Management 👤 | Microsoft 365 ☁️
