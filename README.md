@@ -1,6 +1,6 @@
 🕷️ Your Friendly Neighborhood Cyber Man!
 
-🛡️ Cybersecurity Specialist | Ethical Hacker 🕵️ | Web Security Advocate 🌐 | Digital Defense Enthusiast
+🛡️ Cybersecurity Specialist | Aspiring SOC Analyst 🕵️ | Web Security Advocate 🌐 | Digital Defense Enthusiast
 
 💡 About Me
 🔍 Strategic-minded cybersecurity professional with expertise in penetration testing, incident response, and secure application development. ⚡ Passionate about threat detection, access management, and safeguarding digital assets. 📖 Constantly learning, adapting, and building innovative solutions to strengthen security landscapes.
